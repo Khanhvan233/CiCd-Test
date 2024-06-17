@@ -11,7 +11,7 @@ on:
 
 jobs:
   xampp8:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       -
         name: Set up QEMU
